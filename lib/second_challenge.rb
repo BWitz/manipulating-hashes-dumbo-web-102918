@@ -10,5 +10,4 @@ def second_challenge
   def grocery_values
   return groceries.values 
 end
-grocery_values
 end
