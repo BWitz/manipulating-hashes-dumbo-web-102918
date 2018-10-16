@@ -7,7 +7,6 @@ def second_challenge
   }
 
   #code your solution here!
-  def grocery_values
-  return groceries.values 
-end
+  grocery_values = []
+  
 end
