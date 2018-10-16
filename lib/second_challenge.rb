@@ -8,5 +8,8 @@ def second_challenge
 
   #code your solution here!
   grocery_values = []
-  
+  groceries.each do |attribute, value|
+    grocery_values += value
+  end
+  grocery_values
 end
